@@ -1,5 +1,4 @@
 from tkinter import *
-from tkinter import ttk
 from random import randint
 from PIL import ImageTk, Image
 
@@ -7,9 +6,6 @@ global rounds
 global pmaquina
 global pjogador
 global btn
-rounds = 0
-pmaquina = 0
-pjogador = 0
 btn = 1
 
 def btninicio_clicked():
@@ -58,7 +54,7 @@ def btninicio_clicked():
     btesoura = Button(frame_baixo, image=imgtesoura, command=btntesoura_clicked, relief="flat")
     btesoura.place(x=360, y=140, width=80, height=80)
 
-    if btn == 0:
+    if btn == 1:
         binicio['command'] = ''
 
 
