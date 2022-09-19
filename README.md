@@ -5,4 +5,4 @@ como projetos pessoais e exercícios de cursos e afins.
 
 1. Rock Paper and Scissors Game (Python - Tkinter)
 
-![Rock Paper and Scissor](https://user-images.githubusercontent.com/77700346/190943509-af2264f5-0478-4c53-a98d-269662c2d481.gif)
+![Rock Paper and Scissor project (1)](https://user-images.githubusercontent.com/77700346/190948797-9d6952d0-2dc5-4810-96e2-6ad6675e692f.gif)
