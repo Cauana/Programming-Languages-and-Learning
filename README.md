@@ -51,7 +51,7 @@ Este é um projeto focado em atividade livre da aula de Matemática Discreta do 
 
 
 <details>
-  <summary><b><h2> 1. To Do App (Python - Flask) </h2></b></summary>
+  <summary><b><h2> 2. To Do App (Python - Flask) </h2></b></summary>
   
   <br/>
 
