@@ -49,6 +49,41 @@ Este é um projeto focado em atividade livre da aula de Matemática Discreta do 
 <br/>
 
 
+
+<details>
+  <summary><b><h2> 1. To Do App (Python - Flask) </h2></b></summary>
+  
+  <br/>
+
+
+<h3 align="center">
+Projeto em contrução - todoapp
+</h3>
+
+<br/>
+
+## Lista de Conteúdos
+
+* [Tecnologias Utilizadas](#a)
+* [Aplicação](#f)
+
+<br/>
+
+## Tecnologias Utilizadas <br id=a>
+
+![Badge](https://img.shields.io/static/v1?label=&message=PYTHON&color=gray&style=for-the-badge&logo=PYTHON)
+
+<br/>
+
+
+## Demonstração da Aplicação <br id=f>
+
+
+...
+  
+  </details>
+<br/>
+
 → [Voltar ao topo](#topo)
 </div>
 
