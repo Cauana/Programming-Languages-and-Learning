@@ -51,13 +51,13 @@ Este é um projeto focado em atividade livre da aula de Matemática Discreta do 
 
 
 <details>
-  <summary><b><h2> 2. projeto 2 </h2></b></summary>
+  <summary><b><h2> 2. Gerador de dado (Python - PySimpleGUI) </h2></b></summary>
   
   <br/>
 
 
 <h3 align="center">
-Projeto em contrução 
+Este é um projeto focado em atividade livre da aula de Matemática Discreta do 1º Semestre do Curso do Banco de Dados da Fatec de São José dos Campos. O objetivo deste projeto é criar uma aplicação de jogo de Pedra, Papel e Tesoura, tema que escolhi para treinar a programação em python, buscando aplicar conceitos de lógica e tabela verdade, como na utilização de condicionais, vetores e funções.
 </h3>
 
 <br/>
@@ -72,17 +72,18 @@ Projeto em contrução
 ## Tecnologias Utilizadas <br id=a>
 
 ![Badge](https://img.shields.io/static/v1?label=&message=PYTHON&color=gray&style=for-the-badge&logo=PYTHON)
+![Badge](https://img.shields.io/static/v1?label=&message=PYSIMPLEGUI&color=gray&style=for-the-badge&logo=PYSIMPLEGUI)
 
 <br/>
 
 
 ## Demonstração da Aplicação <br id=f>
 
-
-...
+<br/>![Geradordedados](https://user-images.githubusercontent.com/77700346/203095263-6813cb5e-ae61-4629-a4f1-c7d8a80bd3f5.gif)
   
   </details>
-<br/>
+
+
 
 → [Voltar ao topo](#topo)
 </div>
