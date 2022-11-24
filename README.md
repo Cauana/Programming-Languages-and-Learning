@@ -83,7 +83,7 @@ Este é um projeto focado em atividade livre da aula de Matemática Discreta do 
 
 
 <details>
-  <summary><b><h2> 2. Jogo Snake (Python - Pygame) </h2></b></summary>
+  <summary><b><h2> 3. Jogo Snake (Python - Pygame) </h2></b></summary>
   
   <br/>
 
@@ -117,7 +117,7 @@ Este é um projeto focado em atividade livre da aula de Matemática Discreta do 
   </details>
 
 <details>
-  <summary><b><h2> 2. Jogo de Corrida Clássico (Python - Pygame) </h2></b></summary>
+  <summary><b><h2> 4. Jogo de Corrida Clássico (Python - Pygame) </h2></b></summary>
   
   <br/>
 
