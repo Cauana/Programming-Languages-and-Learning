@@ -116,6 +116,40 @@ Este é um projeto focado em atividade livre da aula de Matemática Discreta do 
 
   </details>
 
+<details>
+  <summary><b><h2> 2. Jogo de Corrida Clássico (Python - Pygame) </h2></b></summary>
+  
+  <br/>
+
+
+<h3 align="center">
+Este é um projeto focado em atividade livre da aula de Matemática Discreta do 1º Semestre do Curso do Banco de Dados da Fatec de São José dos Campos. O objetivo deste projeto é criar uma aplicação de jogo de Pedra, Papel e Tesoura, tema que escolhi para treinar a programação em python, buscando aplicar conceitos de lógica e tabela verdade, como na utilização de condicionais, vetores e funções.
+</h3>
+
+<br/>
+
+## Lista de Conteúdos
+
+* [Tecnologias Utilizadas](#a)
+* [Aplicação](#f)
+
+<br/>
+
+## Tecnologias Utilizadas <br id=a>
+
+![Badge](https://img.shields.io/static/v1?label=&message=PYTHON&color=gray&style=for-the-badge&logo=PYTHON)
+![Badge](https://img.shields.io/static/v1?label=&message=PYGAME&color=gray&style=for-the-badge&logo=PYGAME)
+
+<br/>
+
+
+## Demonstração da Aplicação <br id=f>
+
+![2022-11-24-12-51-21_Trim-_2_ (1) (1)](https://user-images.githubusercontent.com/77700346/203827040-bbf2fdc0-028f-49b0-b945-87e858351859.gif)
+
+
+
+  </details>
 
 
 → [Voltar ao topo](#topo)
