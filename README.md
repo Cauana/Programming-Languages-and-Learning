@@ -1,4 +1,4 @@
-<br id="topo">
+
 <h1> Programming-Languages-and-Learning
    </h1>
    
@@ -55,7 +55,7 @@ Este é um projeto focado em atividade livre da aula de Matemática Discreta do 
 
 
 <h3 align="center">
-Este é um projeto focado em atividade livre da aula de Matemática Discreta do 1º Semestre do Curso do Banco de Dados da Fatec de São José dos Campos. O objetivo deste projeto é criar uma aplicação de jogo de Pedra, Papel e Tesoura, tema que escolhi para treinar a programação em python, buscando aplicar conceitos de lógica e tabela verdade, como na utilização de condicionais, vetores e funções.
+Este é um projeto focado em atividade livre da aula de Matemática Discreta do 1º Semestre do Curso do Banco de Dados da Fatec de São José dos Campos. O objetivo deste projeto é criar uma aplicação de girar dados para o usuário, tema que escolhi para treinar a programação em python, buscando aplicar conceitos de lógica e tabela verdade, como na utilização de condicionais, vetores e funções.
 </h3>
 
 <br/>
@@ -89,7 +89,7 @@ Este é um projeto focado em atividade livre da aula de Matemática Discreta do 
 
 
 <h3 align="center">
-Este é um projeto focado em atividade livre da aula de Matemática Discreta do 1º Semestre do Curso do Banco de Dados da Fatec de São José dos Campos. O objetivo deste projeto é criar uma aplicação de jogo de Pedra, Papel e Tesoura, tema que escolhi para treinar a programação em python, buscando aplicar conceitos de lógica e tabela verdade, como na utilização de condicionais, vetores e funções.
+Este é um projeto focado em atividade livre da aula de Matemática Discreta do 1º Semestre do Curso do Banco de Dados da Fatec de São José dos Campos. O objetivo deste projeto é criar uma aplicação de jogo da Snake, tema que escolhi para treinar a programação em python, buscando aplicar conceitos de lógica e tabela verdade, como na utilização de condicionais, vetores e funções.
 </h3>
 
 <br/>
@@ -123,7 +123,7 @@ Este é um projeto focado em atividade livre da aula de Matemática Discreta do 
 
 
 <h3 align="center">
-Este é um projeto focado em atividade livre da aula de Matemática Discreta do 1º Semestre do Curso do Banco de Dados da Fatec de São José dos Campos. O objetivo deste projeto é criar uma aplicação de jogo de Pedra, Papel e Tesoura, tema que escolhi para treinar a programação em python, buscando aplicar conceitos de lógica e tabela verdade, como na utilização de condicionais, vetores e funções.
+Este é um projeto focado em atividade livre da aula de Matemática Discreta do 1º Semestre do Curso do Banco de Dados da Fatec de São José dos Campos. O objetivo deste projeto é criar uma aplicação de jogo de corrida clássico, tema que escolhi para treinar a programação em python, buscando aplicar conceitos de lógica e tabela verdade, como na utilização de condicionais, vetores e funções.
 </h3>
 
 <br/>
@@ -152,8 +152,40 @@ Este é um projeto focado em atividade livre da aula de Matemática Discreta do 
   </details>
 
 
-→ [Voltar ao topo](#topo)
-</div>
+<details>
+  <summary><b><h2> 5. Acenda a Lâmpada (HTML, CSS e JavaScript) </h2></b></summary>
+  
+  <br/>
+
+
+<h3 align="center">
+Este é um projeto focado em atividade livre da aula de Matemática Discreta do 1º Semestre do Curso do Banco de Dados da Fatec de São José dos Campos. O objetivo deste projeto é criar uma aplicação para acender, desligar ou quebrar uma lâmpada, tema que escolhi para treinar a programação em JavaScript, buscando aplicar conceitos de lógica e tabela verdade, como na utilização de condicionais, vetores e funções.
+</h3>
+
+<br/>
+
+## Lista de Conteúdos
+
+* [Tecnologias Utilizadas](#a)
+* [Aplicação](#f)
+
+<br/>
+
+## Tecnologias Utilizadas <br id=a>
+![Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<br/>
+
+
+## Demonstração da Aplicação <br id=f>
+
+![2022-11-25-01-21-49-_online-video-cutter com_](https://user-images.githubusercontent.com/77700346/203901448-fdf2eecd-c0a4-4fd8-9a7c-c6a1c24aca1e.gif)
+
+</details>
+
+
 
 
 
